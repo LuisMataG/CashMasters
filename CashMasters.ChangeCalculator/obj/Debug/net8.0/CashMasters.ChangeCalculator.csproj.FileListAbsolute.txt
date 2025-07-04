@@ -1,0 +1,14 @@
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\bin\Debug\net8.0\CashMasters.ChangeCalculator.exe
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\bin\Debug\net8.0\CashMasters.ChangeCalculator.deps.json
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\bin\Debug\net8.0\CashMasters.ChangeCalculator.runtimeconfig.json
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\bin\Debug\net8.0\CashMasters.ChangeCalculator.dll
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\bin\Debug\net8.0\CashMasters.ChangeCalculator.pdb
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\obj\Debug\net8.0\CashMasters.ChangeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\obj\Debug\net8.0\CashMasters.ChangeCalculator.AssemblyInfoInputs.cache
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\obj\Debug\net8.0\CashMasters.ChangeCalculator.AssemblyInfo.cs
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\obj\Debug\net8.0\CashMasters.ChangeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\obj\Debug\net8.0\CashMasters.ChangeCalculator.dll
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\obj\Debug\net8.0\refint\CashMasters.ChangeCalculator.dll
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\obj\Debug\net8.0\CashMasters.ChangeCalculator.pdb
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\obj\Debug\net8.0\CashMasters.ChangeCalculator.genruntimeconfig.cache
+C:\Users\ivanr\source\repos\CashMasters\CashMasters.ChangeCalculator\obj\Debug\net8.0\ref\CashMasters.ChangeCalculator.dll
