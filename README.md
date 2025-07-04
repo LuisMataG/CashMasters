@@ -32,8 +32,3 @@ The solution includes a comprehensive suite of unit tests built with **xUnit**, 
 - Valid scenarios for multiple currencies.
 - Error cases (invalid prices, payment shortages, unresolvable change).
 - Boundary validations and exception handling.
-
-Run tests with:
-
-```bash
-dotnet test
